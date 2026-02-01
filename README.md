@@ -157,6 +157,5 @@ This project is for **educational use only**.
 | | |
 |:---|:---|
 | **Name** | Abdalla Abdelrhman |
-| **Handle** | 0x2nac0nda |
 | **Title** | Cybersecurity Consultant |
 | **LinkedIn** | [linkedin.com/in/0x2nac0nda](https://www.linkedin.com/in/0x2nac0nda/) |
